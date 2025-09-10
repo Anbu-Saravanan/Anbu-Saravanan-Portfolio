@@ -1,0 +1,45 @@
+[
+  {
+    "title": "GUVI Full-Stack Certified Developer",
+    "org": "GUVI",
+    "start": "2025-March",
+    "end": "2025-August",
+    "bullets": [
+      "Built Spring Boot + React full-stack projects",
+      "Learned REST APIs, JWT authentication, MySQL, Docker"
+    ]
+  },
+  {
+    "title": "Event Management System (Project)",
+    "org": "Personal Project",
+    "start": "2025-July",
+    "end": "2025-August",
+    "bullets": [
+      "Developed secure role-based access with Spring Security + JWT",
+      "Built React frontend with Axios and Bootstrap",
+      "Integrated email notifications with Spring Boot"
+    ]
+  },
+  {
+    "title": "Learning Management System (Project)",
+    "org": "Personal Project",
+    "start": "2025-May",
+    "end": "2025-June",
+    "bullets": [
+      "Implemented course enrollment flow using React + Spring Boot",
+      "Handled instructor vs student roles with JWT tokens",
+      "Used MySQL for relational data storage"
+    ]
+  },
+  {
+    "title": "SmartSpend Expense Tracker (Project)",
+    "org": "Personal Project",
+    "start": "2025-April",
+    "end": "2025-May",
+    "bullets": [
+      "Built REST APIs for budgets & expenses with Spring Boot",
+      "Created React dashboard with charts",
+      "Implemented OTP email verification for user signup"
+    ]
+  }
+]

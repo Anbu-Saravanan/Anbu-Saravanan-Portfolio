@@ -1,0 +1,6 @@
+{
+  "Backend": ["Java 17","Spring Boot","Spring Security","JWT","JPA/Hibernate","RESTFul APIs"],
+  "Frontend": ["React","React Router","Bootstrap","Axios"],
+  "Database": ["MySQL","MongoDB"],
+  "Tools": ["Git/GitHub","Postman","Render","Vercel","IntelliJ IDEA","Visual Studio Code","Eclipse","Maven","npm"]
+}

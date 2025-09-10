@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ems",
+    "name": "Event Management System",
+    "summary": "Spring Boot + React with JWT & RBAC",
+    "stack": ["Java","Spring Boot","JWT","React","MySQL"],
+    "image": "ems.png",
+    "github": "https://github.com/Anbu-Saravanan/EventManagementSystem",
+    "demo": "https://ems-demo.vercel.app"
+  },
+  {
+    "id": "lms",
+    "name": "Learning Management System",
+    "summary": "Spring Boot + React with JWT & Websocket Live notification",
+    "stack": ["Java","Spring Boot","JWT","React","MySQL"],
+    "image": "lms.png",
+    "github": "https://github.com/Anbu-Saravanan/lms_springboot_backend",
+    "demo": "https://lms-demo.vercel.app"
+  },
+  {
+    "id": "smartspendtracker",
+    "name": "Smart Spend Tracker",
+    "summary": "Spring Boot + React with JWT & Websocket Live notification",
+    "stack": ["Java","Spring Boot","JWT","React","MongoDB"],
+    "image": "sst.png",
+    "github": "https://github.com/Anbu-Saravanan/SmartSpendTrackerSpringBootBackend",
+    "demo": "https://lms-demo.vercel.app"
+  }
+]
